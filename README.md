@@ -4,7 +4,7 @@
 This project is designed to create a tech blog with various functionality including login/logout, authentication, sessions, cookies and CRUD functionality using both MVC and API routes. 
 
 ## Table Of Contents
-* [Deployed URL](#Deployed URL)
+* [Deployed URL](#Deployed-URL)
 * [Questions](#Screenshot)
 * [Credits](#Credits)
 * [Questions](#Questions)
