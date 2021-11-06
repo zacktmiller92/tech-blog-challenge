@@ -12,17 +12,17 @@ body, html {
 
 a {
   text-decoration: none;
-  color: #225ca3;
+  color: #fff000;
   font-weight: bold;
   transition: color .1s;
 }
 
 a:hover {
-  color: #3486eb;
+  color: rgb(201, 190, 35);
 }
 
 button {
-  background-color: #225ca3;
+  background-color: #fff000;
   border: 0;
   padding: 1%;
   color: white;
@@ -33,7 +33,7 @@ button {
 }
 
 button:hover {
-  background-color: #3486eb;
+  background-color:rgb(201, 190, 35);
 }
 
 .post-list {
@@ -49,7 +49,7 @@ textarea, input {
 
 textarea:focus, input:focus {
   outline: none;
-  border: 1px solid #3486eb;
+  border: 1px solid #fff000;
 }
 
 textarea {
@@ -75,7 +75,7 @@ form label {
 }
 
 header {
-  border-bottom: 1px solid #ccc;
+  border-bottom: 1px solid #ccc000;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -97,7 +97,7 @@ main {
   padding: 0;
   cursor: pointer;
   text-decoration: none;
-  color: #225ca3;
+  color: #fff000;
   font-size: 100%;
   font-weight: bold;
   transition: color .1s;
@@ -125,7 +125,7 @@ main {
 .post .title span {
   font-style: italic;
   font-size: 90%;
-  color: #7d7d7d;
+  color: #5d5d5d;
 }
 
 .edit-link {
@@ -152,7 +152,7 @@ main {
 }
 
 .comment:nth-child(odd) {
-  background-color: #fff5eb;
+  background-color: #fff2eb;
 }
 
 .comment .meta {
@@ -170,7 +170,7 @@ main {
 }
 
 footer {
-  border-top: 1px solid #ccc;
+  border-top: 1px solid #c1c1c1;
   display: flex;
   justify-content: center;
   padding: 1%;
